@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I’m Keanu Pahio</h1>
-<p align="center">Full-stack dev · Game modder · AI builder · Real-world problem solver</p>
+<p align="center">Avid coder</p>
 
 ---
 
