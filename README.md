@@ -7,8 +7,6 @@
 
 I’m a computer science grad who codes because I genuinely enjoy it.
 
-Whether it's building an AI assistant that actually understands your files, designing browser-based multiplayer games, or modding RimWorld with deep mechanics — I love solving real problems with clean, scalable code.
-
 I'm always exploring, always improving, and always building.
 
 ---
