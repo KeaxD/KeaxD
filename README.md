@@ -3,9 +3,13 @@
 
 ---
 
-### ⚡ About Me
+### 🚀 About Me
 
-I'm a CS grad who builds real tools, not proof-of-concepts. Whether it's **AI that lives on your machine**, **modded games with deep mechanics**, or **apps people actually use**, I’m about shipping **scalable**, **maintainable**, and **reliable** code.
+I’m a computer science grad who codes because I genuinely enjoy it.
+
+Whether it's building an AI assistant that actually understands your files, designing browser-based multiplayer games, or modding RimWorld with deep mechanics — I love solving real problems with clean, scalable code.
+
+I'm always exploring, always improving, and always building.
 
 ---
 
@@ -13,9 +17,7 @@ I'm a CS grad who builds real tools, not proof-of-concepts. Whether it's **AI th
 
 | Project | Stack | Description |
 |--------|-------|-------------|
-| 🧠 **Local AI Assistant** | Python, JS, Ollama, LangChain | Fully local RAG-based system that can search, read, and reason over your files. |
-| 🕹️ **Multiplayer Horror Game** | React, TS, WebSockets, Procedural Gen | PvP survival game where sound gives away your location — mic input + AI-driven monster. |
-| 🧙 **RimWorld Mod: Solo Leveling** | C#, XML, Harmony | Shadow summon system, mana mechanics, hunter classes, and dungeon gates. |
+| 🧠 **Local AI RAG System** | Python, JS, Ollama, LangChain | Fully local RAG-based system that can search, read, and reason over your files. |
 | 📱 **Household Coordinator App** | Expo, Node.js, MongoDB | Mobile app for scheduling shared resources like laundry and groceries. |
 
 ---
@@ -28,35 +30,26 @@ I'm a CS grad who builds real tools, not proof-of-concepts. Whether it's **AI th
 ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node-dot-js)
 ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-000000?style=flat&logo=unrealengine)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?style=flat&logo=mongodb)
 ![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat&logo=data:image/svg+xml;base64,...)
 
 ---
 
-### 🧠 Core Focus
-
-- **Local-first AI**: LLMs that respect privacy and don’t need the cloud
-- **Scalable Multiplayer**: React + WebSocket architecture built for chaos
-- **Modding with Purpose**: Real systems, real mechanics, deep gameplay
-- **UI That Doesn’t Suck**: Functional > Fancy, but clean and intuitive always
-
----
-
 ### 🧩 Values I Don't Compromise On
 
-- 💡 **Maintainability**: If it can’t be understood in 6 months, it’s garbage.
-- ⚙️ **Scalability**: Build for the worst case, not the demo.
-- 🚫 **No Hype BS**: Tools should solve problems, not chase trends.
+- **🧍 Honesty**: I believe in clear communication, honest feedback, and staying grounded — in code and in life.
+- **🧭 Integrity**: I build with care, always aiming for solutions that are thoughtful and sustainable be it in my code or my relationships.
+- **🛠 Resilience**: When things break (and they do), I stick with it, learn, and improve.
+- **🔥 Passion**: I truly enjoy what I do — and that’s what keeps me going.
 
 ---
 
 ### 📫 Get in Touch
 
-- 🗂 [See My Projects](https://github.com/KeanuPahio?tab=repositories)
-- 🛠 Want to collab on a game, mod, or AI system? [Open an issue](https://github.com/KeanuPahio)
+- 💬 Want to collaborate, brainstorm, or just chat tech? [Reach out](https://github.com/KeanuPahio)
+- 🗂 Look at my portfolio! I think it looks nice....[See My Portfolio](https://keanupahio.com/)
 
 ---
 
-<p align="center"><i>"I don’t write code to show off. I write code that works — today, and tomorrow."</i></p>
+<p align="center"><i>"I build because I love the process — the challenge, the craft, and the creativity."</i></p>
 <p align="center">— Keanu</p>
