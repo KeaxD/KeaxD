@@ -20,7 +20,7 @@ I'm always exploring, always improving, and always building.
 
 ---
 
-### 🛠️ Tech I Use (Because They Work)
+### 🛠️ Tech I Use 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat&logo=typescript)
@@ -33,7 +33,7 @@ I'm always exploring, always improving, and always building.
 
 ---
 
-### 🧩 Values I Don't Compromise On
+### 🧩 My Values
 
 - **🧍 Honesty**: I believe in clear communication, honest feedback, and staying grounded — in code and in life.
 - **🧭 Integrity**: I build with care, always aiming for solutions that are thoughtful and sustainable be it in my code or my relationships.
